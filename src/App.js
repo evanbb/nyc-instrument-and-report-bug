@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { Suspense, lazy } from 'react';
 import logo from './logo.svg';
 import './App.css';
+
+const LazyComponent = lazy(() => import('./LazyComponent'))
 
 function App() {
   return (
@@ -10,6 +12,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <Suspense fallback={<div />}>
+          <LazyComponent />
+        </Suspense>
         <a
           className="App-link"
           href="https://reactjs.org"
