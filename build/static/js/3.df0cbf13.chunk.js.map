@@ -1,0 +1,1 @@
+{"version":3,"sources":["LazyComponent.js"],"names":["__webpack_require__","r","__webpack_exports__"],"mappings":"yFAAAA,EAAAC,EAAAC,GAAeA,EAAA,yBAAM","file":"static/js/3.df0cbf13.chunk.js","sourcesContent":["export default () => 'i am lazy'"],"sourceRoot":""}
