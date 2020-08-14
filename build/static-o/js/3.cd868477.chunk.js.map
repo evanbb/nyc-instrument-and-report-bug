@@ -1,0 +1,1 @@
+{"version":3,"sources":["LazyComponent.js"],"names":[],"mappings":"qJAAA,OAAe,2BAAM","file":"static/js/3.cd868477.chunk.js","sourcesContent":["export default () => 'i am lazy'"],"sourceRoot":""}

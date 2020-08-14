@@ -1,0 +1,2 @@
+(this["webpackJsonpnyc-instrument-and-report-bug"]=this["webpackJsonpnyc-instrument-and-report-bug"]||[]).push([[3],{12:function(n,t,r){"use strict";r.r(t),t.default=function(){return"i am lazy"}}}]);
+//# sourceMappingURL=3.cd868477.chunk.js.map
